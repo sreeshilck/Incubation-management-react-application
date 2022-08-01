@@ -1,0 +1,7 @@
+.navitem {
+  
+    color: white !important;
+}
+.navitem:hover {
+    color: yellow !important ;
+}
